@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
+
 <div align="center">
-	<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=#FF0069&logoColor=white"/>
+	<img src="https://img.shields.io/badge/3776AB-000000?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
 ## IM, A형 취득하기 🐣
