@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
 
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+</div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-aec2f9?style=flat&logo=Python&logoColor=white" />
  </div>
