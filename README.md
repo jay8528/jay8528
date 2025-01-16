@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
 
-img src="https://img.shields.io/badge/Instagram-#000000?style=flat&logo=#FF0069&logoColor=white"/
+img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=FF0069&logoColor=white"/
 
 ## IM, A형 취득하기 🐣
 ## 정처기, SQLD 따기 🐥
