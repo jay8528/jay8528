@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
  <div align=center>
+	 <a href="[https://yermi.co.k](https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr)">
 	<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 </div>
 
