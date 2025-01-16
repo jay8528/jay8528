@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 	 <a href="[https://yermi.co.k](https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr)">
 		 <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 </div>
+		 
 ## IM, A형 취득하기 🐣
 ## 정처기, SQLD 따기 🐥
 ## 파이썬 수업 잘 따라가기 🐤
