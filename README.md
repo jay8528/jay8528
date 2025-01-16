@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<a href="[https://blog.naver.com/lucete10167/223699458322">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+		<img src="https://img.shields.io/badge/Blog-A8E4A0?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="https://www.notion.so/SSAFY-13-265adad0706442bfa40714dd6376de6d?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
