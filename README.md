@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
 
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-aec2f9?style=flat&logo=Python&logoColor=white" />
 	<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
