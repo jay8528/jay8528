@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr">
 		<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 	</a>
-	<a href="https://yermi.tistory.com">
+	<a href="[https://blog.naver.com/lucete10167/223699458322">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
@@ -37,17 +37,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align=center>
-	
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-</div>
-
-  
-</div>
- <div align=center>
-	 <a href="[https://yermi.co.k](https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr)">
-		 <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
-</div>
-		 
+		
 ## IM, A형 취득하기 🐣
 ## 정처기, SQLD 따기 🐥
 ## 파이썬 수업 잘 따라가기 🐤
