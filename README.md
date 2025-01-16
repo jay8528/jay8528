@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
 
-## Hi there 👋
+## IM, A형 취득하기 🐣
+## 정처기, SQLD 따기 🐥
+## 파이썬 수업 잘 따라가기 🐤
