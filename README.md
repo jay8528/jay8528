@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **jay8528/jay8528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=C1E7E3&height=300&section=header&text=Jaeeun's%20Github!&fontSize=90)
+
+## Hi there 👋
