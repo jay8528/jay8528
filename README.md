@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-aec2f9?style=flat&logo=Python&logoColor=white" />
+ </div>
+
+ <div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
 	<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
 ## IM, A형 취득하기 🐣
