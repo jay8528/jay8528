@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	<h3>📚 Tech Stack 📚</h3>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-aec2f9?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-306998?style=flat&logo=Python&logoColor=white" />
  </div>
  <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
