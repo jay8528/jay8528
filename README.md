@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr">
-		<img src="https://img.shields.io/badge/Instagram-5B51DB?style=flat&logo=Instagram&logoColor=white" />
-	</a>
 	<a href="[https://blog.naver.com/lucete10167/223699458322">
 		<img src="https://img.shields.io/badge/Blog-A8E4A0?style=flat&logo=Blogger&logoColor=white" />
 	</a>
 	<a href="https://www.notion.so/SSAFY-13-265adad0706442bfa40714dd6376de6d?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/jenelmar?igsh=MXFvcXYydHp6Z3dybA%3D%3D&utm_source=qr">
+		<img src="https://img.shields.io/badge/Instagram-5B51DB?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<br>
 </div>
