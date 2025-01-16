@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	<a href="[https://blog.naver.com/lucete10167/223699458322">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="https://www.notion.so/SSAFY-13-265adad0706442bfa40714dd6376de6d?pvs=4">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
