@@ -22,6 +22,7 @@ Here are some ideas to get you started:
  <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
+ <div align=center>
 	<img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=Instagram&logoColor=white" />
 </div>
 
