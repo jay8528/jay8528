@@ -46,3 +46,4 @@ Here are some ideas to get you started:
 </div>
 
 Trigger redeploy
+Trigger Vercel redeploy
