@@ -1,0 +1,67 @@
+/* src/styles/global.css */
+
+@font-face {
+  font-family: 'Nixgon';
+  src: 
+    url('../fonts/NIXGONFONTS_M_2.0.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* @font-face {
+  font-family: 'Nixgon';
+  src: 
+    url('../assets/fonts/NIXGONFONTS_M_2.0.woff') format('woff'),
+    url('../assets/fonts/NIXGONFONTS_M_2.0.ttf')  format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nixgon';
+  src: 
+    url('../assets/fonts/NIXGONFONTS_B_2.0.woff') format('woff'),
+    url('../assets/fonts/NIXGONFONTS_B_2.0.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+} */
+/* ② 기존 설정 유지하면서, 폰트 패밀리만 바꿔줍니다 */
+html {
+  color-scheme: dark;
+  scroll-behavior: smooth;
+  backface-visibility: hidden;
+}
+
+:root {
+  --bg:        #0e0e0e;
+  --fg:        #e2e2e2;
+  --accent:    #5000ff;
+  --accent-fg: #1b1b1b;
+}
+
+body {
+  background: transparent;
+  color: var(--fg);
+  /* system-ui 대신 'Nixgon'을 최우선으로 사용 */
+  font-family: 'Nixgon', system-ui, sans-serif;
+}
+
+.button {
+  padding: .625rem 1rem;
+  border-radius: .5rem;
+  background: var(--accent);
+  color: var(--accent-fg);
+  transition: background .2s;
+}
+.button:hover {
+  background: #5000ff;
+}
+.handle {
+  color: rgba(255, 255, 255, 0.5);  /* 회색 느낌 */
+  font-size: 0.875rem;              /* 작고 조용한 인상 */
+  margin-left: 4px;
+  font-weight: 400;
+}
